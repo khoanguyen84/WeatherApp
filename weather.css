@@ -12,6 +12,7 @@
     background-image: linear-gradient(154deg, #2793af, #6cd3ec);
     border-radius: 5px;
     color:white;
+    box-shadow: 3px 3px 10px #2793af;
 }
 
 .section-info{
