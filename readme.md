@@ -1,7 +1,7 @@
 # Build Weather App using JS
 
 ## API 
-+ https://openweathermap.org/
++ OpenWeather: https://openweathermap.org/
 
 ## knowledgment
 + JS
