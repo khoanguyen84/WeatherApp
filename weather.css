@@ -49,11 +49,11 @@
 }
 .city-name{
     font-weight: bold;
-    font-size: 17px;
-    margin-bottom: 10px;
+    font-size: 20px;
+    margin-bottom: 15px;
 }
 .weather-state{
-    font-size: 13px;
+    font-size: 14px;
     font-weight: thin;
 }
 .weather-icon{
